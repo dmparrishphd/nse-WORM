@@ -1,2 +1,1 @@
-# nse-WORM
-compute the Nash–Sutcliffe model efficiency coefficient (NSE)
+[README](https://github.com/dmparrishphd/nse-CORW/edit/main/README.md).
